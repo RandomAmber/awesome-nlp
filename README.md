@@ -120,6 +120,7 @@ Yoav Goldberg. October 2015. No new info, 75 page summary of state of the art.
   * [gensim](https://radimrehurek.com/gensim/index.html) - Python library to conduct unsupervised semantic modelling from plain text
   * [scattertext](https://github.com/JasonKessler/scattertext) - Python library to produce d3 visualizations of how language differs between corpora.
   * [sioux](https://github.com/CogComp/sioux) - Light-weight Python NLP annotators.
+  * [pymorphy2](https://github.com/kmike/pymorphy2) - a good pos-tagger for Russian
 
   
 * <a id="c++">**C++** - C++ Libraries</a>
